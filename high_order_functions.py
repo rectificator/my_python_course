@@ -1,0 +1,1 @@
+#Funciones que reciben como parámetros a otras funciones
